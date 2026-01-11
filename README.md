@@ -1,8 +1,8 @@
 # Micro-Cap 12 Archive
 
-![Micro-Cap Interface](./images/screenshot.png)
-
 This repository serves as an unofficial archive and starter guide for **Micro-Cap 12**, the powerful SPICE-based circuit simulator. 
+
+![Micro-Cap 12 Circuit Simulator Interface showing 3D plotting and bandpass filter analysis](./images/screenshot.png)
 
 ## History & Status
 Micro-Cap was a professional-grade circuit simulator developed by Spectrum Software. In 2019, Spectrum Software closed down, and the developers generously released Micro-Cap 12 as **free to download** (Freeware) for the engineering community. 
